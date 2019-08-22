@@ -3,7 +3,7 @@
 _This is the very beginning of all works. As the project work goes on, the content of this page and all others will consequently improve_
 
 ## Description
-This is an attempt to create a digital version of a popular board game "Twilight Imperium IV". It is expected to be a standalone desktop application written mostly in Python which would be useful for playing by network.
+This is an attempt to create a digital version of the 4th edition of a popular board game ["Twilight Imperium"](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/ "Fantasy Flight Games link"). It is expected to be a standalone desktop application written mostly in Python which would be useful for playing by network.
 
 ## Contributions
 A set of tips explaining how anyone can contribute to this project will be published in `CONTRIBUTIONS.md` as soon as some ideas are figured out.
