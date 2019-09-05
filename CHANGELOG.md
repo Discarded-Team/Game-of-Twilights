@@ -5,7 +5,7 @@ The format is based on format provided by [Keep a Changelog](https://keepachange
 
 ## [Unreleased]
 
-## [0.0.1] - 2019-08-26
+## [0.0.1] - 2019-09-05
 ### Added
 - This CHANGELOG.md file
 - CONTRIBUTING.md file
